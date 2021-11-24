@@ -14,7 +14,7 @@ public class Karakterskala {
 		if (poeng <= 100 && poeng >= 90) {
 			showMessageDialog(null, "Karakter: A" );
 		}
-		
+//		hh
 		else if (poeng <= 89 && poeng >= 80) {
 			showMessageDialog(null, "Karakter: B" );
 		}

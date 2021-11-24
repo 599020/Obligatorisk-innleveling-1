@@ -8,7 +8,7 @@ public class Trinnskatt {
 		
 		String bruttolønn = ("Din bruttolønn: ");
 		int lønn = parseInt(showInputDialog(bruttolønn));
-		
+		//hh
 		double trinn0 = 0;
 		double trinn1 = 0.0093;
 		double trinn2 = 0.0243;

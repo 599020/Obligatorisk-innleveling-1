@@ -12,7 +12,7 @@ public class Heltall {
 		else 
 			return(n*factorial(n-1));
 	}
-	
+	//
 	public static void main(String[] args) {
 		
 		String fakultet = showInputDialog("Nummer: ");
